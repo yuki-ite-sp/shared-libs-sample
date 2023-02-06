@@ -1,6 +1,6 @@
 {
   "name": "shared-libs-sample",
-  "version": "0.0.3-alpha.2",
+  "version": "0.0.3",
   "private": true,
   "description": "",
   "main": "index.js",

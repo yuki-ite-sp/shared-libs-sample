@@ -1,6 +1,6 @@
 {
   "name": "another-package",
-  "version": "0.0.3-alpha.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "devDependencies": {},
