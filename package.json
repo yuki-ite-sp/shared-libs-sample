@@ -1,6 +1,6 @@
 {
   "name": "shared-libs-sample",
-  "version": "0.0.4-alpha.2",
+  "version": "0.0.4",
   "private": true,
   "description": "",
   "main": "index.js",
@@ -9,6 +9,7 @@
     "version:major": "npm version major --workspaces && git add **/package.json; npm version major --include-workspace-root --force",
     "version:minor": "npm version minor --workspaces && git add **/package.json; npm version minor --include-workspace-root --force",
     "version:patch": "npm version patch --workspaces && git add **/package.json; npm version patch --include-workspace-root --force",
+    "version:release": "npm version release --workspaces && git add **/package.json; npm version release --include-workspace-root --force",
     "version:premajor": "npm version premajor --workspaces --preid alpha && git add **/package.json; npm version premajor --include-workspace-root --force --preid alpha",
     "version:preminor": "npm version preminor --workspaces --preid alpha && git add **/package.json; npm version preminor --include-workspace-root --force --preid alpha",
     "version:prepatch": "npm version prepatch --workspaces --preid alpha && git add **/package.json; npm version prepatch --include-workspace-root --force --preid alpha",
