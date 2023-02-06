@@ -1,6 +1,6 @@
 {
-  "name": "another-package",
-  "version": "0.0.4-alpha.1",
+  "name": "@yuki-ite-sp/another-package",
+  "version": "0.0.4-alpha.2",
   "description": "",
   "main": "index.js",
   "devDependencies": {},
